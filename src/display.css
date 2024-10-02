@@ -1,0 +1,25 @@
+.board {
+    display: flex;
+    background-color: #f5faff;
+}
+
+.header-web{
+    margin-top: 35px;
+}
+
+.column {
+    flex: 1;
+    margin: 0 10px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.column-title {
+    font-size: 17px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.column .card-container {
+    margin-bottom: 15px;
+}
